@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋 I’m Atharv Moon
 
-<!--
-**atharvmoon74-cyber/atharvmoon74-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 First Year IIT Student | Civil Engineering  
+### 💻 Passionate about Coding & Productivity
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 My Projects
+
+### 🌟 FocusFlow Pro
+A smart productivity web app for students
+
+Features:
+- Pomodoro Timer  
+- Task Management  
+- Daily Goals  
+- AI Study Suggestions  
+- Voice Commands  
+- Offline Mode  
+- PWA Support  
+
+🔗 Live Demo: (add your hosted link here)  
+🔗 GitHub Repo: (add repo link here)
+
+---
+
+## 🛠 Skills
+
+- HTML  
+- CSS  
+- JavaScript  
+- Problem Solving  
+- UI/UX  
+- Frontend Development  
+
+---
+
+## 🎯 Goals
+
+- Become better developer  
+- Build real world projects  
+- Learn backend & AI  
+- Help students with tech  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: (your linkedin link)
+- Email: (your email)
+
+---
+
+⭐ Always learning and building!
