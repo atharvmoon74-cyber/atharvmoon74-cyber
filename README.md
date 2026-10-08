@@ -670,23 +670,1028 @@ alt="Building the future"
 
 <div align="center">
 
-# 🌌 PART 01 COMPLETE
+<br>
 
-### `THE FOUNDATION IS BUILT.`
+---
+
+<div align="center">
+
+# ⚡ PART 02 — THE TECH UNIVERSE
+
+### `THE TOOLS, SYSTEMS & TECHNOLOGIES BEHIND THE BUILDER`
 
 <br>
 
-<img
-src="https://img.shields.io/badge/NEXT-TECH%20UNIVERSE%20%2B%20SKILLS-7C3AED?style=for-the-badge&labelColor=020617"
-alt="Part 2"
-/>
+<img src="https://img.shields.io/badge/TECH%20STACK-ONLINE-7C3AED?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/LEARNING%20MODE-ACTIVE-A78BFA?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/EXPERIMENTATION-∞-6D28D9?style=for-the-badge&labelColor=020617"/>
 
 </div>
 
-<!--
-═══════════════════════════════════════════════════════════════
-ATHARV MOON • PROFILE README • PART 01
-Cinematic identity / builder core / mindset / mission control
-Paste PART 02 directly below this section.
-═══════════════════════════════════════════════════════════════
--->
+<br>
+
+---
+
+<div align="center">
+
+# 🧠 TECHNOLOGY CONSTELLATION
+
+### `A visual map of the technologies I build with and explore.`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,react,flutter,nodejs&perline=8" alt="Languages and frameworks"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,supabase,vercel,npm,figma&perline=8" alt="Developer tools and platforms"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=androidstudio,linux,githubactions,tailwind,vite&perline=8" alt="Additional technologies"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+# 💻 CORE ENGINEERING
+
+</div>
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+## 🧱 LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" alt="Programming languages"/>
+
+### C++
+
+Algorithms  
+Problem solving  
+Competitive programming  
+Systems thinking
+
+### Python
+
+Automation  
+AI experiments  
+Scripting  
+Rapid prototyping
+
+### JavaScript
+
+Web interaction  
+Application logic  
+Frontend development
+
+### HTML + CSS
+
+Structure  
+Responsive layouts  
+Visual systems
+
+</td>
+
+<td width="33%" valign="top">
+
+## ⚛️ FRONTEND
+
+<img src="https://skillicons.dev/icons?i=react,vite,flutter,tailwind" alt="Frontend stack"/>
+
+### React
+
+Component architecture  
+Interactive interfaces  
+Modern web apps
+
+### Vite
+
+Fast development  
+Modern tooling  
+Frontend builds
+
+### Flutter
+
+Cross-platform apps  
+Mobile UI  
+Rapid product development
+
+### Tailwind
+
+Design systems  
+Responsive layouts  
+Utility-first styling
+
+</td>
+
+<td width="33%" valign="top">
+
+## ⚙️ BACKEND + SERVICES
+
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,vercel" alt="Backend and services"/>
+
+### Node.js
+
+Server-side workflows  
+Tooling  
+JavaScript runtime
+
+### Firebase
+
+Authentication  
+Cloud services  
+Application infrastructure
+
+### Supabase
+
+Database workflows  
+Authentication  
+Backend services
+
+### Vercel
+
+Deployment  
+Web hosting  
+Production workflows
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+# 🎨 DESIGN + EXPERIENCE
+
+### `CODE SHOULD WORK. DESIGN SHOULD MAKE PEOPLE WANT TO USE IT.`
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+# 🎨
+
+### UI
+
+Clean  
+Modern  
+Focused
+
+</td>
+
+<td align="center" width="25%">
+
+# 🧩
+
+### UX
+
+Simple  
+Intuitive  
+Useful
+
+</td>
+
+<td align="center" width="25%">
+
+# ✨
+
+### MOTION
+
+Interactive  
+Responsive  
+Alive
+
+</td>
+
+<td align="center" width="25%">
+
+# 🌌
+
+### VISUALS
+
+Cinematic  
+Premium  
+Memorable
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DESIGN%20SYSTEMS-020617?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+<img src="https://img.shields.io/badge/RESPONSIVE%20UI-020617?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/INTERACTION-020617?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/PRODUCT%20THINKING-020617?style=for-the-badge&logo=googlechrome&logoColor=4285F4"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+# 🤖 AI + AUTOMATION LAB
+
+### `EXPERIMENTING WITH INTELLIGENT SYSTEMS`
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🧠 INTELLIGENCE
+
+```text
+┌─────────────────────────────┐
+│       AI EXPERIMENTS        │
+├─────────────────────────────┤
+│                             │
+│  🧠 AI ASSISTANTS           │
+│  🎙️ VOICE INTERFACES        │
+│  ⚙️ AUTOMATION              │
+│  🔎 INFORMATION SYSTEMS     │
+│  🧩 AGENT WORKFLOWS         │
+│  🚀 PRODUCT INTEGRATION     │
+│                             │
+└─────────────────────────────┘
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚡ AUTOMATION
+
+```text
+┌─────────────────────────────┐
+│       AUTOMATION FLOW       │
+├─────────────────────────────┤
+│                             │
+│ INPUT                       │
+│   ↓                         │
+│ UNDERSTAND                  │
+│   ↓                         │
+│ DECIDE                      │
+│   ↓                         │
+│ EXECUTE                     │
+│   ↓                         │
+│ VERIFY                      │
+│   ↓                         │
+│ OUTPUT                      │
+│                             │
+└─────────────────────────────┘
+```
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+# 🧰 DEVELOPER ARSENAL
+
+</div>
+
+<br>
+
+| SYSTEM | TECHNOLOGIES | ROLE |
+|:---|:---|:---|
+| 🌐 Web | HTML • CSS • JavaScript | Digital experiences |
+| ⚛️ Frontend | React • Vite • Tailwind | Modern interfaces |
+| 📱 Apps | Flutter • Android Studio | Mobile products |
+| 🐍 Programming | Python • C++ | Logic and problem solving |
+| 🔥 Backend | Firebase • Supabase • Node.js | Application services |
+| 🎨 Design | Figma • UI/UX | Product experience |
+| 🔧 Tooling | npm • VS Code | Development workflow |
+| 🌿 Version Control | Git • GitHub | Collaboration and history |
+| ☁️ Deployment | Vercel | Production delivery |
+| 🧪 Experimentation | AI • APIs • Automation | New systems |
+
+<br>
+
+---
+
+<div align="center">
+
+# 📊 SKILL MATRIX
+
+### `CURRENT FOCUS ≠ FINAL DESTINATION`
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌐 WEB DEVELOPMENT
+
+```text
+HTML             ████████████████████  95%
+CSS              ███████████████████░  90%
+JavaScript       ██████████████████░░  85%
+React            ████████████████░░░░  80%
+Vite             ███████████████░░░░░  75%
+Responsive UI    ██████████████████░░  85%
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧠 PROGRAMMING
+
+```text
+Python           ████████████████░░░░  80%
+C++              ███████████████░░░░░  75%
+Problem Solving  █████████████████░░░  85%
+Algorithms       ██████████████░░░░░░  70%
+Automation       ████████████████░░░░  80%
+Debugging        █████████████████░░░  85%
+```
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📱 APPLICATIONS
+
+```text
+Flutter          ███████████████░░░░░  75%
+Android          ██████████████░░░░░░  70%
+Firebase         ██████████████░░░░░░  70%
+Supabase         ██████████████░░░░░░  70%
+PWA              ███████████████░░░░░  75%
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎨 PRODUCT
+
+```text
+UI Design        █████████████████░░░  85%
+UX Thinking      ████████████████░░░░  80%
+Visual Design    █████████████████░░░  85%
+Product Thinking ███████████████░░░░░  75%
+Prototyping      ████████████████░░░░  80%
+```
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+> **Note:** These bars represent my current self-assessed focus areas, not formal certifications or standardized proficiency scores.
+
+<br>
+
+---
+
+<div align="center">
+
+# 🌌 SKILL CONSTELLATION
+
+```text
+                         🧠 AI
+                          │
+                          │
+             🎨 DESIGN ──┼── ⚙️ AUTOMATION
+                    ╲     │     ╱
+                     ╲    │    ╱
+                      ╲   │   ╱
+                       ╲  │  ╱
+                        ╲ │ ╱
+                         ✦
+                    ATHARV CORE
+                         ╱ │ ╲
+                        ╱  │  ╲
+                       ╱   │   ╲
+                      ╱    │    ╲
+                     ╱     │     ╲
+                🌐 WEB ────┼──── 📱 APPS
+                          │
+                          │
+                          🚀 PRODUCTS
+```
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+# 🔬 CURRENTLY EXPLORING
+
+</div>
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+## 🤖
+
+### AI
+
+Intelligent interfaces  
+AI workflows  
+Assistants
+
+</td>
+
+<td width="25%" align="center">
+
+## 🎙️
+
+### VOICE
+
+Speech interfaces  
+Natural interaction  
+Hands-free workflows
+
+</td>
+
+<td width="25%" align="center">
+
+## ⚙️
+
+### AGENTS
+
+Automation  
+Tool execution  
+Multi-step workflows
+
+</td>
+
+<td width="25%" align="center">
+
+## 🌐
+
+### PRODUCTS
+
+Useful software  
+Better UX  
+Real-world ideas
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+# 🚀 PROJECT UNIVERSE
+
+### `IDEAS THAT LEFT THE NOTEBOOK`
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+# ⚡ FOCUSFLOW PRO
+
+### `PRODUCTIVITY ENGINE`
+
+> A productivity experience designed around focused work, planning and daily execution.
+
+### CORE
+
+- 🍅 Pomodoro
+- 📝 Task management
+- 🎯 Daily goals
+- 🤖 AI study suggestions
+- 🎙️ Voice interaction
+- 📡 Offline capability
+- 📱 PWA experience
+
+### STACK
+
+`HTML` `CSS` `JavaScript` `PWA`
+
+### STATUS
+
+🟢 **ACTIVE / EVOLVING**
+
+</td>
+
+<td width="50%" valign="top">
+
+# 📄 PDFX PRO
+
+### `DOCUMENT WORKSPACE`
+
+> A PDF-focused product concept built around practical document workflows and a polished experience.
+
+### CORE
+
+- 📄 PDF workflows
+- ⚡ Fast interaction
+- 🎨 Clean interface
+- 📱 Responsive design
+- 🧩 Utility-focused UX
+
+### STACK
+
+`Web` `UI/UX` `JavaScript`
+
+### STATUS
+
+🟢 **ACTIVE / EVOLVING**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+# 🎮 ATHARVVERSE
+
+### `PLAY • CHAT • COMPETE`
+
+> An experimental gaming ecosystem built around interactive games, private rooms and social competition.
+
+### CORE
+
+- 🎮 Multiplayer concepts
+- 🏆 Competition
+- 💬 Social interaction
+- 🔐 Private rooms
+- ⚡ Animated interfaces
+- 🧩 Game systems
+
+### STACK
+
+`React` `Vite` `Tailwind` `Framer Motion`
+
+### STATUS
+
+🟡 **BUILDING**
+
+</td>
+
+<td width="50%" valign="top">
+
+# 🤖 SHAMPY
+
+### `PERSONAL AI SYSTEM`
+
+> An experimental AI assistant concept exploring voice, automation, desktop interaction and intelligent workflows.
+
+### CORE
+
+- 🎙️ Voice
+- 🧠 AI
+- ⚙️ Automation
+- 🖥️ Desktop workflows
+- 🌐 Web interaction
+- 🔮 Experimental systems
+
+### STACK
+
+`Python` `AI` `Automation` `Web`
+
+### STATUS
+
+🟡 **EXPERIMENTAL**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+# 🗺️ PROJECT STATUS MAP
+
+</div>
+
+<br>
+
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                      ATHARV PROJECT MAP                         ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  ⚡ FOCUSFLOW PRO                                                ║
+║     └── PRODUCTIVITY                                             ║
+║     └── STATUS: 🟢 ACTIVE                                       ║
+║                                                                  ║
+║  📄 PDFX PRO                                                     ║
+║     └── PDF / WEB                                                ║
+║     └── STATUS: 🟢 ACTIVE                                       ║
+║                                                                  ║
+║  🎮 ATHARVVERSE                                                  ║
+║     └── GAMING / SOCIAL                                          ║
+║     └── STATUS: 🟡 BUILDING                                     ║
+║                                                                  ║
+║  🤖 SHAMPY                                                       ║
+║     └── AI / AUTOMATION                                          ║
+║     └── STATUS: 🟡 EXPERIMENTAL                                 ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+---
+
+<div align="center">
+
+# 🧪 PROJECT DEVELOPMENT CYCLE
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center">
+
+### 01
+
+## 💡 CONCEPT
+
+What could exist?
+
+</td>
+
+<td align="center">
+
+### 02
+
+## 📝 PLAN
+
+What should it do?
+
+</td>
+
+<td align="center">
+
+### 03
+
+## 🎨 DESIGN
+
+How should it feel?
+
+</td>
+
+<td align="center">
+
+### 04
+
+## 💻 BUILD
+
+How should it work?
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 05
+
+## 🧪 TEST
+
+Does it survive?
+
+</td>
+
+<td align="center">
+
+### 06
+
+## 🐛 DEBUG
+
+What breaks?
+
+</td>
+
+<td align="center">
+
+### 07
+
+## ⚡ POLISH
+
+Can it be better?
+
+</td>
+
+<td align="center">
+
+### 08
+
+## 🚀 RELEASE
+
+Is it ready?
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+# 🧩 WHAT I BUILD
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+## 🌐 WEB
+
+- Landing pages
+- Dashboards
+- Productivity tools
+- Interactive websites
+- Web applications
+- Responsive interfaces
+- Experimental interfaces
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🤖 INTELLIGENCE
+
+- AI assistants
+- AI-powered tools
+- Voice interfaces
+- Automation systems
+- Intelligent workflows
+- Experimental agents
+- AI product ideas
+
+</td>
+
+<td width="33%" valign="top">
+
+## 📱 APPLICATIONS
+
+- Mobile apps
+- Utility applications
+- Student tools
+- Productivity apps
+- Creative products
+- Experimental software
+- Cross-platform experiences
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+# 🔥 PRODUCT DESIGN PRINCIPLES
+
+</div>
+
+<br>
+
+| PRINCIPLE | QUESTION |
+|:---|:---|
+| ⚡ **FAST** | Does it feel responsive? |
+| 🎯 **CLEAR** | Does the user understand it immediately? |
+| 🎨 **BEAUTIFUL** | Does the interface feel intentional? |
+| 🧩 **USEFUL** | Does it solve a real problem? |
+| 📱 **RESPONSIVE** | Does it work across screens? |
+| 🧠 **SMART** | Can technology reduce unnecessary work? |
+| 🔒 **RELIABLE** | Does it behave predictably? |
+| 🚀 **SHIPPABLE** | Can it actually reach users? |
+
+<br>
+
+---
+
+<div align="center">
+
+# 🛠️ DEVELOPMENT WORKFLOW
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                    ATHARV WORKFLOW                          │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  01  IDEA                                                   │
+│       ↓                                                     │
+│  02  RESEARCH                                               │
+│       ↓                                                     │
+│  03  ARCHITECTURE                                            │
+│       ↓                                                     │
+│  04  UI / UX                                                │
+│       ↓                                                     │
+│  05  IMPLEMENTATION                                          │
+│       ↓                                                     │
+│  06  TESTING                                                │
+│       ↓                                                     │
+│  07  DEBUGGING                                              │
+│       ↓                                                     │
+│  08  OPTIMIZATION                                           │
+│       ↓                                                     │
+│  09  DEPLOYMENT                                             │
+│       ↓                                                     │
+│  10  ITERATION                                              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+# 🧰 MY DIGITAL ARSENAL
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,flutter,nodejs&perline=8" alt="Programming arsenal"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,supabase,vercel,npm,figma&perline=8" alt="Development arsenal"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=androidstudio,tailwind,vite,linux,githubactions&perline=8" alt="Additional tools"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+# 🌐 TECHNOLOGY DOMAINS
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+
+### `01`
+
+# 🌐
+
+**WEB**
+
+</td>
+
+<td align="center" width="20%">
+
+### `02`
+
+# 📱
+
+**MOBILE**
+
+</td>
+
+<td align="center" width="20%">
+
+### `03`
+
+# 🤖
+
+**AI**
+
+</td>
+
+<td align="center" width="20%">
+
+### `04`
+
+# ⚙️
+
+**AUTOMATION**
+
+</td>
+
+<td align="center" width="20%">
+
+### `05`
+
+# 🎨
+
+**DESIGN**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+# 🔭 WHAT'S NEXT
+
+### `THE STACK IS NEVER FINISHED.`
+
+<br>
+
+```text
+LEARN
+  ↓
+BUILD
+  ↓
+DISCOVER A LIMIT
+  ↓
+BREAK THE LIMIT
+  ↓
+LEARN AGAIN
+```
+
+<br>
+
+### **Every project adds another tool to the arsenal.**
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
