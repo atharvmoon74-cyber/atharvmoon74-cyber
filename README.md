@@ -51,18 +51,43 @@
 <tr>
 <td width="58%" valign="top">
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=17&duration=1900&pause=550&color=67E8F9&center=true&vCenter=true&width=700&height=38&lines=%24+IDENTITY.load%28%29...;ATHARV+MOON+%7C+BUILDER+MINDSET;CIVIL+ENGINEERING+%C3%97+CREATIVE+TECH;IDEA+DETECTED.+BUILD+SEQUENCE+INITIATED.;STATUS%3A+CURIOUS.+CREATING.+ITERATING." alt="Animated identity sequence"/>
+
+<img src="https://img.shields.io/badge/01-ENGINEER%20IN%20TRAINING-0b1020?style=for-the-badge&labelColor=312e81" alt="Engineer in training"/>
+<img src="https://img.shields.io/badge/02-CREATIVE%20TECH-0b1020?style=for-the-badge&labelColor=0e7490" alt="Creative technology"/>
+<img src="https://img.shields.io/badge/03-ALWAYS%20ITERATING-0b1020?style=for-the-badge&labelColor=9d174d" alt="Always iterating"/>
+
+</div>
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
 ## ⟡ THE PERSON BEHIND THE BUILDS
 
-Hey, I'm **Atharv Moon** — a **B.Tech Civil Engineering student at IIT Tirupati** with a strong interest in software, AI tools, product experiences, and creative technology.
+<sub>IDENTITY FILE // ATHARV-MOON</sub>
 
-I like taking ideas from **“what if?” to “it works.”** I experiment with interfaces, connect tools, solve problems, and keep polishing until a project feels right.
+Hey, I'm **Atharv Moon** — a **B.Tech Civil Engineering student at IIT Tirupati** exploring the space where engineering, software, AI tools, and creative technology meet.
 
-- ◈ Building web experiences and practical apps
-- ◈ Exploring AI workflows and automation
-- ◈ Designing cinematic interfaces and motion-led experiences
-- ◈ Learning by shipping projects, fixing bugs, and iterating
+I enjoy taking ideas from **“what if?” to “it works.”** I prototype, connect tools, test what breaks, and keep refining until the experience feels right.
 
-> **Think boldly. Build patiently. Make it memorable.**
+### ◈ CURRENT OPERATING PRINCIPLES
+
+- **01 / BUILD** — practical apps and web experiences
+- **02 / EXPLORE** — AI workflows, tools, and automation
+- **03 / DESIGN** — cinematic interfaces and motion-led visuals
+- **04 / IMPROVE** — learn by shipping, debugging, and iterating
+
+> *Think boldly. Build patiently. Make it memorable.*
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/MINDSET-IDEAS%20INTO%20REALITY-111827?style=flat-square&labelColor=6d28d9" alt="Ideas into reality"/>
+<img src="https://img.shields.io/badge/ENERGY-CURIOUS%20BY%20DEFAULT-111827?style=flat-square&labelColor=0e7490" alt="Curious by default"/>
+
+</div>
 
 </td>
 <td width="42%" align="center" valign="middle">
@@ -70,6 +95,8 @@ I like taking ideas from **“what if?” to “it works.”** I experiment with
 <img src="https://github-readme-stats.vercel.app/api?username=atharvmoon74-cyber&show_icons=true&hide_border=true&rank_icon=github&bg_color=070b18&title_color=c4b5fd&icon_color=67e8f9&text_color=e2e8f0&ring_color=8b5cf6&include_all_commits=true" width="100%" alt="GitHub statistics"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvmoon74-cyber&layout=compact&hide_border=true&bg_color=070b18&title_color=67e8f9&text_color=e2e8f0&langs_count=8" width="100%" alt="Top languages"/>
+
+<img src="https://img.shields.io/badge/PROFILE%20SIGNAL-ONLINE-0b1020?style=for-the-badge&logo=github&logoColor=67e8f9&labelColor=312e81" alt="Profile online"/>
 
 </td>
 </tr>
