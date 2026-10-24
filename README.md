@@ -85,44 +85,57 @@ I like taking ideas from **“what if?” to “it works.”** I experiment with
 
 <div align="center">
 
-<sub>FOUR ORBITS · ONE BUILDER · CONSTANTLY EXPANDING</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1700&pause=500&color=A78BFA&center=true&vCenter=true&width=650&height=35&lines=INITIALIZING+SKILL+ORBIT...;SCANNING+FRONTEND+SYSTEMS...;SYNCING+AI+%26+AUTOMATION...;MOBILE+MODULES+ONLINE...;TOOLKIT+READY+FOR+DEPLOYMENT" alt="Animated skill scan"/>
+
+<img src="https://img.shields.io/badge/CORE%20SYSTEM-ONLINE-07111f?style=for-the-badge&logo=probot&logoColor=67e8f9&labelColor=312e81" alt="Core system online"/>
+<img src="https://img.shields.io/badge/BUILD%20MODE-ACTIVE-07111f?style=for-the-badge&logo=rocket&logoColor=67e8f9&labelColor=0e7490" alt="Build mode active"/>
+
+</div>
 
 <table>
 <tr>
 <td align="center" width="50%" valign="top">
 
-### ✦ FRONTEND & WEB
+### ◉ ORBIT 01 · FRONTEND
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&perline=4" alt="Frontend and web skills"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&perline=4" alt="Frontend technologies"/>
 
-<sub>Interfaces · Responsive UI · Motion</sub>
+<img src="https://img.shields.io/badge/STATUS-INTERFACE%20ENGINE-111827?style=flat-square&labelColor=6d28d9" alt="Interface engine"/>
+
+<sub>Web interfaces · Responsive layouts · Motion-led UI</sub>
 
 </td>
 <td align="center" width="50%" valign="top">
 
-### ✦ AI & AUTOMATION
+### ◉ ORBIT 02 · AI LAB
 
-<img src="https://skillicons.dev/icons?i=python,nodejs&perline=4" alt="AI and automation tools"/>
+<img src="https://skillicons.dev/icons?i=python,nodejs&perline=4" alt="AI and automation technologies"/>
 
-<sub>AI workflows · Prototypes · Automation</sub>
+<img src="https://img.shields.io/badge/STATUS-EXPERIMENTING-111827?style=flat-square&labelColor=0e7490" alt="Experimenting"/>
+
+<sub>AI workflows · Automation · Rapid prototypes</sub>
 
 </td>
 </tr>
 <tr>
 <td align="center" width="50%" valign="top">
 
-### ✦ MOBILE & APPS
+### ◉ ORBIT 03 · MOBILE
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase&perline=4" alt="Mobile development and backend tools"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase&perline=4" alt="Mobile and backend technologies"/>
+
+<img src="https://img.shields.io/badge/STATUS-APP%20BUILDER-111827?style=flat-square&labelColor=0891b2" alt="App builder"/>
 
 <sub>Cross-platform apps · Backend integrations</sub>
 
 </td>
 <td align="center" width="50%" valign="top">
 
-### ✦ ENGINEERING TOOLKIT
+### ◉ ORBIT 04 · TOOLKIT
 
-<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,figma&perline=4" alt="Engineering and development tools"/>
+<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,figma&perline=4" alt="Engineering toolkit"/>
+
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20UPGRADING-111827?style=flat-square&labelColor=be185d" alt="Always upgrading"/>
 
 <sub>Problem solving · Version control · Design</sub>
 
@@ -130,7 +143,9 @@ I like taking ideas from **“what if?” to “it works.”** I experiment with
 </tr>
 </table>
 
-<img src="https://img.shields.io/badge/ORBIT-LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20REFINE-111827?style=for-the-badge&labelColor=312e81" alt="Learn build refine"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:22d3ee,50:8b5cf6,100:fb7185" width="88%" alt="Neon skill divider"/>
 
 </div>
 
@@ -138,7 +153,7 @@ I like taking ideas from **“what if?” to “it works.”** I experiment with
 
 <div align="center">
 
-<sub>PROJECTS, EXPERIMENTS & WORLDS IN PROGRESS</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=1800&pause=500&color=67E8F9&center=true&vCenter=true&width=700&height=32&lines=LOADING+PROJECT+DATABASE...;6+PROJECTS+%7C+MULTIPLE+ORBITS;IDEAS+INTO+EXPERIENCES;SELECT+A+PROJECT+TO+EXPLORE" alt="Animated project database"/>
 
 </div>
 
@@ -148,22 +163,26 @@ I like taking ideas from **“what if?” to “it works.”** I experiment with
 
 ### ◉ [ATHARVVERSE · GAME LAB](https://github.com/atharvmoon74-cyber/shadow-strike-arena)
 
+<img src="https://img.shields.io/badge/01-GAME%20LAB-111827?style=for-the-badge&labelColor=6d28d9" alt="Project 01"/>
+
 **Games · Interactive web · Motion**
 
 A playground for interactive game experiences, neon interfaces, and browser-based fun.
 
-<img src="https://img.shields.io/badge/FOCUS-GAME%20EXPERIENCES-111827?style=flat-square&labelColor=6d28d9" alt="Game experiences"/>
+<img src="https://skillicons.dev/icons?i=react,vite,js&theme=dark" alt="Web stack"/>
 
 </td>
 <td width="50%" valign="top">
 
 ### ◉ SHAMPY
 
+<img src="https://img.shields.io/badge/02-PERSONAL%20AI-111827?style=for-the-badge&labelColor=0e7490" alt="Project 02"/>
+
 **Personal AI · Voice · Automation**
 
 A personal-assistant concept exploring voice-first interaction, useful memory, desktop workflows, and a cinematic interface.
 
-<img src="https://img.shields.io/badge/FOCUS-PERSONAL%20AI-111827?style=flat-square&labelColor=0e7490" alt="Personal AI"/>
+<img src="https://skillicons.dev/icons?i=python,nodejs&theme=dark" alt="AI tools"/>
 
 </td>
 </tr>
@@ -172,22 +191,26 @@ A personal-assistant concept exploring voice-first interaction, useful memory, d
 
 ### ◉ [DESTINY PLANNER](https://github.com/atharvmoon74-cyber/Destiny_Planners)
 
+<img src="https://img.shields.io/badge/03-TRAVEL%20TECH-111827?style=for-the-badge&labelColor=312e81" alt="Project 03"/>
+
 **Travel · Planning · Mobile**
 
-A travel-planning concept built around destinations, trip organization, and a polished mobile-first experience.
+A travel-planning concept for destinations, trip organization, and a polished mobile-first experience.
 
-<img src="https://img.shields.io/badge/FOCUS-TRAVEL%20TECH-111827?style=flat-square&labelColor=312e81" alt="Travel technology"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" alt="Mobile stack"/>
 
 </td>
 <td width="50%" valign="top">
 
 ### ◉ [PARTICLE GALAXY](https://github.com/atharvmoon74-cyber/ParticleGalaxy)
 
+<img src="https://img.shields.io/badge/04-CREATIVE%20TECH-111827?style=for-the-badge&labelColor=0891b2" alt="Project 04"/>
+
 **Visual experiments · Creative coding**
 
-Exploring particle-driven visuals and atmospheric digital experiences inspired by space, motion, and light.
+Particle-driven visuals and atmospheric digital experiences inspired by space, motion, and light.
 
-<img src="https://img.shields.io/badge/FOCUS-CREATIVE%20TECH-111827?style=flat-square&labelColor=0891b2" alt="Creative technology"/>
+<img src="https://img.shields.io/badge/FOCUS-PARTICLES%20%2B%20MOTION-111827?style=flat-square&labelColor=6d28d9" alt="Particle visuals"/>
 
 </td>
 </tr>
@@ -196,18 +219,26 @@ Exploring particle-driven visuals and atmospheric digital experiences inspired b
 
 ### ◉ [RESUME CHECKER](https://github.com/atharvmoon74-cyber/ResumeChecker)
 
+<img src="https://img.shields.io/badge/05-CAREER%20TOOLS-111827?style=for-the-badge&labelColor=be185d" alt="Project 05"/>
+
 **Career tools · Web app**
 
 A practical project focused on making resume review more useful and accessible.
+
+<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="Web technologies"/>
 
 </td>
 <td width="50%" valign="top">
 
 ### ◉ [ATHARV PORTFOLIO](https://github.com/atharvmoon74-cyber/atharv-moon-godlevel-portfolio)
 
+<img src="https://img.shields.io/badge/06-PERSONAL%20BRAND-111827?style=for-the-badge&labelColor=4338ca" alt="Project 06"/>
+
 **Portfolio · UI · Personal brand**
 
 A dedicated space for presenting projects and shaping a distinctive developer identity.
+
+<img src="https://img.shields.io/badge/FOCUS-DESIGN%20%2B%20PRESENTATION-111827?style=flat-square&labelColor=0e7490" alt="Design and presentation"/>
 
 </td>
 </tr>
@@ -215,7 +246,9 @@ A dedicated space for presenting projects and shaping a distinctive developer id
 
 <div align="center">
 
-<a href="https://github.com/atharvmoon74-cyber?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-OPEN%20REPOSITORIES-111827?style=for-the-badge&logo=github&labelColor=6d28d9" alt="Explore projects"/></a>
+<a href="https://github.com/atharvmoon74-cyber?tab=repositories"><img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20ALL%20PROJECTS-OPEN%20REPOSITORIES-111827?style=for-the-badge&logo=github&labelColor=6d28d9" alt="Explore all projects"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:22d3ee,50:8b5cf6,100:fb7185" width="88%" alt="Neon divider"/>
 
 </div>
 
