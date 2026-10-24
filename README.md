@@ -18,7 +18,11 @@
 
 </div>
 
----
+<div align="center">
+
+<img width="88%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22d3ee,35:6366f1,70:a78bfa,100:fb7185&section=header" alt="Neon gradient divider"/>
+
+</div>
 
 <div align="center">
 
@@ -56,7 +60,11 @@ I like taking ideas from **“what if?” to “it works.”** I experiment with
 </tr>
 </table>
 
----
+<div align="center">
+
+<img width="88%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22d3ee,35:6366f1,70:a78bfa,100:fb7185&section=header" alt="Neon gradient divider"/>
+
+</div>
 
 ## ⟡ TECH ARSENAL
 
@@ -119,11 +127,17 @@ A collection of experiments in creative tools, animated interfaces, and turning 
 
 </div>
 
----
+<div align="center">
+
+<img width="88%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22d3ee,35:6366f1,70:a78bfa,100:fb7185&section=header" alt="Neon gradient divider"/>
+
+</div>
 
 <div align="center">
 
 ## ⟡ THE CONTRIBUTION CONSTELLATION
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=1800&pause=700&color=67E8F9&center=true&vCenter=true&width=680&height=28&lines=YOUR+ACTIVITY%2C+IN+MOTION;EVERY+SQUARE+TELLS+A+STORY;VIOLET+%E2%80%A2+CYAN+%E2%80%A2+ROSE+%E2%80%A2+OCEAN" alt="Animated contribution caption"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atharvmoon74-cyber/atharvmoon74-cyber/output/github-contribution-grid-snake-violet-cyan.svg"/>
@@ -136,6 +150,8 @@ A collection of experiments in creative tools, animated interfaces, and turning 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=atharvmoon74-cyber&bg_color=070b18&color=c4b5fd&line=22d3ee&point=f0abfc&area=true&area_color=312e81&hide_border=true&custom_title=EVERY%20COMMIT%20IS%20PART%20OF%20THE%20STORY" alt="GitHub contribution activity graph"/>
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=atharvmoon74-cyber&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:06b6d4,50:8b5cf6,100:fb7185" alt="Neon frame separator"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=atharvmoon74-cyber&theme=tokyonight&hide_border=true&background=070b18&ring=8b5cf6&fire=22d3ee&currStreakLabel=c4b5fd" width="100%" alt="Contribution streak"/>
 
@@ -153,7 +169,11 @@ A collection of experiments in creative tools, animated interfaces, and turning 
 
 </div>
 
----
+<div align="center">
+
+<img width="88%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22d3ee,35:6366f1,70:a78bfa,100:fb7185&section=header" alt="Neon gradient divider"/>
+
+</div>
 
 <div align="center">
 
