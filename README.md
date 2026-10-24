@@ -57,43 +57,94 @@
 
 </div>
 
-## ⟡ THE PERSON BEHIND THE BUILDS
-
-<sub>IDENTITY FILE // ATHARV-MOON</sub>
-
-Hey, I'm **Atharv Moon** — a **B.Tech Civil Engineering student at IIT Tirupati** exploring the space where engineering, software, AI tools, and creative technology meet.
-
-I enjoy taking ideas from **“what if?” to “it works.”** I prototype, connect tools, test what breaks, and keep refining until the experience feels right.
-
-### ◈ CURRENT OPERATING PRINCIPLES
-
-- **01 / BUILD** — practical apps and web experiences
-- **02 / EXPLORE** — AI workflows, tools, and automation
-- **03 / DESIGN** — cinematic interfaces and motion-led visuals
-- **04 / IMPROVE** — learn by shipping, debugging, and iterating
-
-> *Think boldly. Build patiently. Make it memorable.*
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/MINDSET-IDEAS%20INTO%20REALITY-111827?style=flat-square&labelColor=6d28d9" alt="Ideas into reality"/>
-<img src="https://img.shields.io/badge/ENERGY-CURIOUS%20BY%20DEFAULT-111827?style=flat-square&labelColor=0e7490" alt="Curious by default"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=1800&pause=450&color=67E8F9&center=true&vCenter=true&width=700&height=38&lines=%3E+BOOTING+ATHARV.OS...;%3E+IDENTITY%3A+ATHARV+MOON;%3E+ENGINEERING+MEETS+CREATIVE+TECH;%3E+IDEA+%E2%86%92+PROTOTYPE+%E2%86%92+BUILD;%3E+SYSTEM+STATUS%3A+ALWAYS+EVOLVING" alt="Animated Atharv OS identity"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:22d3ee,50:8b5cf6,100:fb7185" width="92%" alt="Neon identity divider"/>
 
 </div>
 
+## ⟡ ✦ THE PERSON BEHIND THE BUILDS
+
 <div align="center">
+
+<img src="https://img.shields.io/badge/%E2%9C%A6%20IDENTITY-ATHARV%20MOON-0b1020?style=for-the-badge&labelColor=312e81" alt="Atharv Moon identity"/>
+<img src="https://img.shields.io/badge/%E2%9A%A1%20MINDSET-IDEAS%20INTO%20REALITY-0b1020?style=for-the-badge&labelColor=0e7490" alt="Ideas into reality"/>
+<img src="https://img.shields.io/badge/%E2%97%88%20MODE-ALWAYS%20BUILDING-0b1020?style=for-the-badge&labelColor=9d174d" alt="Always building"/>
+
+</div>
+
+Hey, I'm **Atharv Moon** — a **B.Tech Civil Engineering student at IIT Tirupati**, exploring the space where engineering, software, AI tools, and creative technology meet.
+
+I like taking ideas from **“what if?” to “it works.”** I prototype, connect tools, test what breaks, and keep refining until the experience feels right.
+
+### ⟡ MY BUILDING DNA
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**✦ 01 / BUILD**
+
+Practical apps and web experiences that turn ideas into something people can use.
+
+<img src="https://img.shields.io/badge/CORE-IMPLEMENT-111827?style=flat-square&labelColor=6d28d9" alt="Implement"/>
+
+</td>
+<td valign="top" width="50%">
+
+**✦ 02 / EXPLORE**
+
+AI workflows, creative tools, automation, and new ways to solve problems.
+
+<img src="https://img.shields.io/badge/CORE-EXPERIMENT-111827?style=flat-square&labelColor=0e7490" alt="Experiment"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**✦ 03 / DESIGN**
+
+Cinematic interfaces, thoughtful details, and motion-led digital experiences.
+
+<img src="https://img.shields.io/badge/CORE-CRAFT-111827?style=flat-square&labelColor=4338ca" alt="Craft"/>
+
+</td>
+<td valign="top" width="50%">
+
+**✦ 04 / IMPROVE**
+
+Ship, debug, learn, repeat. Progress matters more than pretending to be perfect.
+
+<img src="https://img.shields.io/badge/CORE-ITERATE-111827?style=flat-square&labelColor=be185d" alt="Iterate"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2100&pause=650&color=C4B5FD&center=true&vCenter=true&width=650&height=32&lines=%22THINK+BOLDLY.%22;%22BUILD+PATIENTLY.%22;%22MAKE+IT+MEMORABLE.%22" alt="Animated personal motto"/>
+
+<img src="https://img.shields.io/badge/STATUS-CURIOUS%20BY%20DEFAULT-070b18?style=for-the-badge&logo=github&logoColor=67e8f9&labelColor=312e81" alt="Curious by default"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:22d3ee,50:8b5cf6,100:fb7185" width="92%" alt="Neon divider"/>
+
+### ⟡ LIVE BUILD METRICS
+
+</div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=atharvmoon74-cyber&show_icons=true&hide_border=true&rank_icon=github&bg_color=070b18&title_color=c4b5fd&icon_color=67e8f9&text_color=e2e8f0&ring_color=8b5cf6&include_all_commits=true" width="100%" alt="GitHub statistics"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvmoon74-cyber&layout=compact&hide_border=true&bg_color=070b18&title_color=67e8f9&text_color=e2e8f0&langs_count=8" width="100%" alt="Top languages"/>
 
-<img src="https://img.shields.io/badge/PROFILE%20SIGNAL-ONLINE-0b1020?style=for-the-badge&logo=github&logoColor=67e8f9&labelColor=312e81" alt="Profile online"/>
-
-</div>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:22d3ee,50:8b5cf6,100:fb7185" width="88%" alt="Neon skill divider"/>
+<img src="https://img.shields.io/badge/PROFILE%20SIGNAL-ONLINE-0b1020?style=for-the-badge&logo=github&logoColor=67e8f9&labelColor=312e81" alt="Profile signal"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:22d3ee,50:8b5cf6,100:fb7185" width="92%" alt="Neon divider"/>
 
 </div>
 
