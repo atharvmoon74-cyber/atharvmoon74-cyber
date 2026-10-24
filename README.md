@@ -1,77 +1,113 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&text=ATHARV%20MOON&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=twinkling&color=0:050816,25:111827,55:312e81,78:6d28d9,100:06b6d4" alt="Atharv Moon — cinematic profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ATHARV%20MOON&fontSize=62&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=ENGINEERING%20IDEAS%20INTO%20REALITY&descAlignY=58&descSize=16&color=0:030712,22:111827,48:312e81,72:6d28d9,100:0891b2" alt="Atharv Moon cinematic header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=650&color=67E8F9&center=true&vCenter=true&width=780&height=44&lines=DEVELOPER+%E2%80%A2+CREATOR+%E2%80%A2+BUILDER;TURNING+IDEAS+INTO+REAL+PROJECTS;WEB+%2F+AI+%2F+AUTOMATION+%2F+APPS;DESIGN.+BUILD.+BREAK.+LEARN.+REPEAT." alt="Animated intro"/>
-
-<a href="https://github.com/atharvmoon74-cyber"><img src="https://komarev.com/ghpvc/?username=atharvmoon74-cyber&style=for-the-badge&color=7c3aed&label=PROFILE+SCANS" alt="Profile views"/></a>
-<a href="https://github.com/atharvmoon74-cyber?tab=followers"><img src="https://img.shields.io/github/followers/atharvmoon74-cyber?style=for-the-badge&logo=github&label=FOLLOWERS&color=0891b2" alt="Followers"/></a>
-<a href="https://github.com/atharvmoon74-cyber?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20SOURCE-IN%20PROGRESS-a78bfa?style=for-the-badge&logo=github" alt="Open source"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=600&color=67E8F9&center=true&vCenter=true&width=820&height=48&lines=DEVELOPER+%2F+CREATOR+%2F+BUILDER;CIVIL+ENGINEERING+STUDENT+%40+IIT+TIRUPATI;WEB+%E2%80%A2+AI+TOOLS+%E2%80%A2+AUTOMATION+%E2%80%A2+APPS;DREAM.+DESIGN.+BUILD.+REFINE.+SHIP." alt="Animated role introduction"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-CURIOUS%20%26%20BUILDING-0b1020?style=flat-square&labelColor=312e81" alt="Status"/>
-<img src="https://img.shields.io/badge/FOCUS-WEB%20%7C%20AI%20%7C%20APPS-0b1020?style=flat-square&labelColor=0e7490" alt="Focus"/>
-<img src="https://img.shields.io/badge/MODE-ITERATE%20%26%20SHIP-0b1020?style=flat-square&labelColor=6d28d9" alt="Mode"/>
+<a href="https://github.com/atharvmoon74-cyber"><img src="https://komarev.com/ghpvc/?username=atharvmoon74-cyber&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/></a>
+<a href="https://github.com/atharvmoon74-cyber?tab=followers"><img src="https://img.shields.io/github/followers/atharvmoon74-cyber?style=for-the-badge&logo=github&label=FOLLOWERS&color=0891b2" alt="Followers"/></a>
+<a href="https://github.com/atharvmoon74-cyber?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=6d28d9" alt="Repositories"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/BASED%20IN-INDIA-0b1020?style=flat-square&labelColor=312e81" alt="India"/>
+<img src="https://img.shields.io/badge/CURRENT%20MODE-BUILDING-0b1020?style=flat-square&labelColor=0e7490" alt="Building"/>
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-0b1020?style=flat-square&labelColor=6d28d9" alt="Learning"/>
 
 </div>
 
 ---
 
+<div align="center">
+
+### ◈ NOT JUST CODE. A CONTINUOUS EXPERIMENT.
+
+*Curiosity is the spark. Building is the proof.*
+
+</div>
+
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="58%" valign="top">
 
-## ◈ THE BUILDER
+## ⟡ THE PERSON BEHIND THE BUILDS
 
-Hey, I'm **Atharv Moon** — a B.Tech Civil Engineering student at **IIT Tirupati**, exploring software, product design, AI tools, and creative technology.
+Hey, I'm **Atharv Moon** — a **B.Tech Civil Engineering student at IIT Tirupati** with a strong interest in software, AI tools, product experiences, and creative technology.
 
-I enjoy taking an idea from a rough sketch to a working experience: designing the interface, building the features, testing what breaks, and polishing the details.
+I like taking ideas from **“what if?” to “it works.”** I experiment with interfaces, connect tools, solve problems, and keep polishing until a project feels right.
 
-- ✦ Building web experiences and useful apps
-- ✦ Exploring AI, automation, and developer tools
-- ✦ Interested in cinematic UI, motion, and thoughtful UX
-- ✦ Learning in public — one experiment at a time
+- ◈ Building web experiences and practical apps
+- ◈ Exploring AI workflows and automation
+- ◈ Designing cinematic interfaces and motion-led experiences
+- ◈ Learning by shipping projects, fixing bugs, and iterating
 
-> *Make it useful. Make it feel great. Keep improving.*
+> **Think boldly. Build patiently. Make it memorable.**
 
 </td>
-<td width="38%" align="center" valign="middle">
+<td width="42%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=atharvmoon74-cyber&show_icons=true&hide_border=true&bg_color=070b18&title_color=a78bfa&icon_color=67e8f9&text_color=e2e8f0&ring_color=8b5cf6" width="100%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=atharvmoon74-cyber&show_icons=true&hide_border=true&rank_icon=github&bg_color=070b18&title_color=c4b5fd&icon_color=67e8f9&text_color=e2e8f0&ring_color=8b5cf6&include_all_commits=true" width="100%" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvmoon74-cyber&layout=compact&hide_border=true&bg_color=070b18&title_color=67e8f9&text_color=e2e8f0" width="100%" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvmoon74-cyber&layout=compact&hide_border=true&bg_color=070b18&title_color=67e8f9&text_color=e2e8f0&langs_count=8" width="100%" alt="Top languages"/>
 
 </td>
 </tr>
 </table>
 
-## ⟡ TECH STACK
+---
+
+## ⟡ TECH ARSENAL
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,react,vite,tailwind,flutter,nodejs,supabase,firebase,git,github,vscode,figma&perline=8" alt="Technology icons"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,react,vite,tailwind,flutter,nodejs,supabase,firebase,git,github,vscode,figma&perline=9" alt="Technology stack"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FRONTEND-Interfaces%20%26%20Motion-111827?style=for-the-badge&labelColor=312e81" alt="Frontend"/>
+<img src="https://img.shields.io/badge/AI-Tools%20%26%20Experiments-111827?style=for-the-badge&labelColor=6d28d9" alt="AI"/>
+<img src="https://img.shields.io/badge/BUILD-Apps%20%26%20Automation-111827?style=for-the-badge&labelColor=0e7490" alt="Apps"/>
 
 </div>
 
-## ⟡ SELECTED BUILDS
+## ⟡ SELECTED UNIVERSE
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◉ FocusFlow Pro
-A productivity workspace built around focus sessions, tasks, daily goals, and study routines.
+### ◉ ATHARVVERSE
+**Interactive experiences · Games · Web**
 
-**Focus:** frontend · productivity · UI/UX
+A playground for experiments in game concepts, polished UI, animations, and interactive experiences.
 
 </td>
 <td width="50%" valign="top">
 
-### ◉ Creative Experiments
-Small experiments exploring animated interfaces, AI-assisted workflows, interactive tools, and visual storytelling.
+### ◉ SHAMPY
+**Personal AI assistant · Desktop workflows**
 
-**Focus:** motion · prototyping · exploration
+An ambitious assistant concept focused on voice interaction, useful memory, automation, and a cinematic interface.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◉ DESTINY PLANNER
+**Travel · Flutter · Product design**
+
+A travel-planning app concept bringing destinations, trip planning, and an AI-assisted experience together.
+
+</td>
+<td width="50%" valign="top">
+
+### ◉ CREATIVE LAB
+**Web · AI workflows · Visual storytelling**
+
+A collection of experiments in creative tools, animated interfaces, and turning ambitious concepts into working prototypes.
 
 </td>
 </tr>
@@ -79,37 +115,49 @@ Small experiments exploring animated interfaces, AI-assisted workflows, interact
 
 <div align="center">
 
-## ⟡ CONTRIBUTION SIGNAL
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=atharvmoon74-cyber&bg_color=070b18&color=c4b5fd&line=22d3ee&point=f0abfc&area=true&area_color=312e81&hide_border=true&custom_title=THE%20BUILD%20TIMELINE" alt="Animated-style contribution activity graph"/>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=atharvmoon74-cyber&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies"/>
+<a href="https://github.com/atharvmoon74-cyber?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-OPEN%20REPOSITORIES-111827?style=for-the-badge&logo=github&labelColor=6d28d9" alt="Explore projects"/></a>
 
 </div>
 
-## ⟡ HOW I BUILD
+---
+
+<div align="center">
+
+## ⟡ THE CONTRIBUTION CONSTELLATION
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=atharvmoon74-cyber&bg_color=070b18&color=c4b5fd&line=22d3ee&point=f0abfc&area=true&area_color=312e81&hide_border=true&custom_title=EVERY%20COMMIT%20IS%20PART%20OF%20THE%20STORY" alt="GitHub contribution activity graph"/>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=atharvmoon74-cyber&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=atharvmoon74-cyber&theme=tokyonight&hide_border=true&background=070b18&ring=8b5cf6&fire=22d3ee&currStreakLabel=c4b5fd" width="100%" alt="Contribution streak"/>
+
+</div>
+
+## ⟡ MY BUILD LOOP
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/01-IMAGINE-111827?style=for-the-badge&labelColor=312e81" alt="Imagine"/>
-<img src="https://img.shields.io/badge/02-EXPERIMENT-111827?style=for-the-badge&labelColor=4338ca" alt="Experiment"/>
-<img src="https://img.shields.io/badge/03-BUILD-111827?style=for-the-badge&labelColor=6d28d9" alt="Build"/>
-<img src="https://img.shields.io/badge/04-REFINE-111827?style=for-the-badge&labelColor=0e7490" alt="Refine"/>
-<img src="https://img.shields.io/badge/05-SHIP-111827?style=for-the-badge&labelColor=0891b2" alt="Ship"/>
+<img src="https://img.shields.io/badge/02-DESIGN-111827?style=for-the-badge&labelColor=4338ca" alt="Design"/>
+<img src="https://img.shields.io/badge/03-ENGINEER-111827?style=for-the-badge&labelColor=6d28d9" alt="Engineer"/>
+<img src="https://img.shields.io/badge/04-ITERATE-111827?style=for-the-badge&labelColor=0e7490" alt="Iterate"/>
+<img src="https://img.shields.io/badge/05-RELEASE-111827?style=for-the-badge&labelColor=0891b2" alt="Release"/>
 
 </div>
 
-## ⟡ FIND ME
+---
 
 <div align="center">
 
-<a href="https://github.com/atharvmoon74-cyber"><img src="https://img.shields.io/badge/GITHUB-FOLLOW%20THE%20BUILDS-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=312e81" alt="GitHub profile"/></a>
-<a href="mailto:atharvmoon74@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-111827?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0e7490" alt="Email"/></a>
+## ⟡ LET'S CONNECT
+
+<a href="https://github.com/atharvmoon74-cyber"><img src="https://img.shields.io/badge/GITHUB-FOLLOW%20THE%20JOURNEY-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=312e81" alt="GitHub"/></a>
+<a href="mailto:atharvmoon74@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-111827?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0e7490" alt="Email"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:050816,35:312e81,70:6d28d9,100:0891b2" width="100%" alt="Gradient footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=145&section=footer&text=THE%20NEXT%20BUILD%20STARTS%20HERE&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=twinkling&color=0:030712,30:312e81,65:6d28d9,100:0891b2" alt="Animated footer"/>
 
-<sub>◈ ALWAYS LEARNING · ALWAYS BUILDING · NEVER FINISHED ◈</sub>
+<sub>◈ CURIOSITY IN MOTION · PROGRESS IN PUBLIC · ALWAYS BUILDING ◈</sub>
 
 </div>
