@@ -152,7 +152,10 @@ Ship, debug, learn, repeat. Progress matters more than pretending to be perfect.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=1800&pause=500&color=67E8F9&center=true&vCenter=true&width=700&height=32&lines=LOADING+PROJECT+DATABASE...;6+PROJECTS+%7C+MULTIPLE+ORBITS;IDEAS+INTO+EXPERIENCES;SELECT+A+PROJECT+TO+EXPLORE" alt="Animated project database"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=1600&pause=450&color=67E8F9&center=true&vCenter=true&width=700&height=34&lines=%24+PROJECTS.scan%28%29...;REAL+REPOSITORIES.+REAL+EXPERIMENTS.;FROM+SPATIAL+TOOLS+TO+SPACE+SIMULATIONS;FROM+PRODUCTIVITY+TO+CREATIVE+TECH;CHOOSE+YOUR+NEXT+EXPLORATION" alt="Animated project scan"/>
+
+<img src="https://img.shields.io/badge/PROJECT%20PORTFOLIO-LIVE-070b18?style=for-the-badge&logo=github&logoColor=67e8f9&labelColor=312e81" alt="Project portfolio live"/>
+<img src="https://img.shields.io/badge/BUILD%20STYLE-EXPERIMENT%20%2B%20ITERATE-070b18?style=for-the-badge&labelColor=0e7490" alt="Build style"/>
 
 </div>
 
@@ -160,84 +163,108 @@ Ship, debug, learn, repeat. Progress matters more than pretending to be perfect.
 <tr>
 <td width="50%" valign="top">
 
-### ◉ [ATHARVVERSE · GAME LAB](https://github.com/atharvmoon74-cyber/shadow-strike-arena)
+### ◈ [GEONEXUS](https://github.com/atharvmoon74-cyber/GeoNexus_AtharvMoon)
 
-<img src="https://img.shields.io/badge/01-GAME%20LAB-111827?style=for-the-badge&labelColor=6d28d9" alt="Project 01"/>
+<img src="https://img.shields.io/badge/01-GEO%20%2B%20ENGINEERING-111827?style=for-the-badge&labelColor=0e7490" alt="GeoNexus project"/>
 
-**Games · Interactive web · Motion**
+**Geospatial ideas · Engineering tools**
 
-A playground for interactive game experiences, neon interfaces, and browser-based fun.
+An engineering-focused project exploring geospatial workflows and practical digital tools.
 
-<img src="https://skillicons.dev/icons?i=react,vite,js&theme=dark" alt="Web stack"/>
+<img src="https://img.shields.io/badge/ORBIT-SPATIAL%20TECH-111827?style=flat-square&labelColor=312e81" alt="Spatial technology"/>
 
 </td>
 <td width="50%" valign="top">
 
-### ◉ SHAMPY
+### ◈ [SPACE EXPLORER](https://github.com/atharvmoon74-cyber/SpaceExplorer)
 
-<img src="https://img.shields.io/badge/02-PERSONAL%20AI-111827?style=for-the-badge&labelColor=0e7490" alt="Project 02"/>
+<img src="https://img.shields.io/badge/02-SPACE%20EXPLORATION-111827?style=for-the-badge&labelColor=4338ca" alt="Space Explorer project"/>
 
-**Personal AI · Voice · Automation**
+**Space · Interactive learning**
 
-A personal-assistant concept exploring voice-first interaction, useful memory, desktop workflows, and a cinematic interface.
+A space-themed project built around exploring astronomical ideas and digital experiences.
 
-<img src="https://skillicons.dev/icons?i=python,nodejs&theme=dark" alt="AI tools"/>
+<img src="https://img.shields.io/badge/ORBIT-COSMIC%20DISCOVERY-111827?style=flat-square&labelColor=0e7490" alt="Cosmic discovery"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ◉ [DESTINY PLANNER](https://github.com/atharvmoon74-cyber/Destiny_Planners)
+### ◈ [FOCUSFLOW PRO](https://github.com/atharvmoon74-cyber/FocusFlow-Pro)
 
-<img src="https://img.shields.io/badge/03-TRAVEL%20TECH-111827?style=for-the-badge&labelColor=312e81" alt="Project 03"/>
+<img src="https://img.shields.io/badge/03-PRODUCTIVITY-111827?style=for-the-badge&labelColor=6d28d9" alt="FocusFlow project"/>
+
+**Focus · Workflow · Productivity**
+
+A productivity-focused project centered on organizing work and helping users maintain momentum.
+
+<img src="https://img.shields.io/badge/ORBIT-FLOW%20STATE-111827?style=flat-square&labelColor=0891b2" alt="Flow state"/>
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ [PARTICLE GALAXY](https://github.com/atharvmoon74-cyber/ParticleGalaxy)
+
+<img src="https://img.shields.io/badge/04-CREATIVE%20TECH-111827?style=for-the-badge&labelColor=be185d" alt="Particle Galaxy project"/>
+
+**Creative coding · Visual experiments**
+
+A creative-tech project exploring particle-inspired visuals, atmosphere, motion, and light.
+
+<img src="https://img.shields.io/badge/ORBIT-PARTICLES%20%2B%20MOTION-111827?style=flat-square&labelColor=312e81" alt="Particles and motion"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ [INDHIREZ](https://github.com/atharvmoon74-cyber/Indhirez-Atharv)
+
+<img src="https://img.shields.io/badge/05-CAREER%20TECH-111827?style=for-the-badge&labelColor=0e7490" alt="Indhirez project"/>
+
+**Careers · Digital products**
+
+A career-oriented project exploring digital experiences around hiring and professional opportunities.
+
+<img src="https://img.shields.io/badge/ORBIT-CAREER%20TOOLS-111827?style=flat-square&labelColor=6d28d9" alt="Career tools"/>
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ [RESUME CHECKER](https://github.com/atharvmoon74-cyber/ResumeChecker)
+
+<img src="https://img.shields.io/badge/06-CAREER%20TOOLS-111827?style=for-the-badge&labelColor=4338ca" alt="Resume Checker project"/>
+
+**Resume review · Web tools**
+
+A project focused on making resume review more useful and accessible.
+
+<img src="https://img.shields.io/badge/ORBIT-CAREER%20SUPPORT-111827?style=flat-square&labelColor=be185d" alt="Career support"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ [DESTINY PLANNER](https://github.com/atharvmoon74-cyber/Destiny_Planners)
+
+<img src="https://img.shields.io/badge/07-TRAVEL%20TECH-111827?style=for-the-badge&labelColor=0891b2" alt="Destiny Planner project"/>
 
 **Travel · Planning · Mobile**
 
-A travel-planning concept for destinations, trip organization, and a polished mobile-first experience.
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" alt="Mobile stack"/>
+A travel-planning project focused on destinations and organizing trip ideas.
 
 </td>
 <td width="50%" valign="top">
 
-### ◉ [PARTICLE GALAXY](https://github.com/atharvmoon74-cyber/ParticleGalaxy)
+### ◈ [ATHARV PORTFOLIO](https://github.com/atharvmoon74-cyber/atharv-moon-godlevel-portfolio)
 
-<img src="https://img.shields.io/badge/04-CREATIVE%20TECH-111827?style=for-the-badge&labelColor=0891b2" alt="Project 04"/>
-
-**Visual experiments · Creative coding**
-
-Particle-driven visuals and atmospheric digital experiences inspired by space, motion, and light.
-
-<img src="https://img.shields.io/badge/FOCUS-PARTICLES%20%2B%20MOTION-111827?style=flat-square&labelColor=6d28d9" alt="Particle visuals"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◉ [RESUME CHECKER](https://github.com/atharvmoon74-cyber/ResumeChecker)
-
-<img src="https://img.shields.io/badge/05-CAREER%20TOOLS-111827?style=for-the-badge&labelColor=be185d" alt="Project 05"/>
-
-**Career tools · Web app**
-
-A practical project focused on making resume review more useful and accessible.
-
-<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="Web technologies"/>
-
-</td>
-<td width="50%" valign="top">
-
-### ◉ [ATHARV PORTFOLIO](https://github.com/atharvmoon74-cyber/atharv-moon-godlevel-portfolio)
-
-<img src="https://img.shields.io/badge/06-PERSONAL%20BRAND-111827?style=for-the-badge&labelColor=4338ca" alt="Project 06"/>
+<img src="https://img.shields.io/badge/08-PERSONAL%20BRAND-111827?style=for-the-badge&labelColor=6d28d9" alt="Portfolio project"/>
 
 **Portfolio · UI · Personal brand**
 
-A dedicated space for presenting projects and shaping a distinctive developer identity.
-
-<img src="https://img.shields.io/badge/FOCUS-DESIGN%20%2B%20PRESENTATION-111827?style=flat-square&labelColor=0e7490" alt="Design and presentation"/>
+A dedicated project for presenting creative work and building a distinct online identity.
 
 </td>
 </tr>
@@ -245,9 +272,11 @@ A dedicated space for presenting projects and shaping a distinctive developer id
 
 <div align="center">
 
-<a href="https://github.com/atharvmoon74-cyber?tab=repositories"><img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20ALL%20PROJECTS-OPEN%20REPOSITORIES-111827?style=for-the-badge&logo=github&labelColor=6d28d9" alt="Explore all projects"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1900&pause=500&color=C4B5FD&center=true&vCenter=true&width=650&height=30&lines=EXPLORE+THE+CODE.;OPEN+THE+REPOSITORY.;FOLLOW+THE+BUILD+IN+PROGRESS." alt="Explore projects animation"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:22d3ee,50:8b5cf6,100:fb7185" width="88%" alt="Neon divider"/>
+<a href="https://github.com/atharvmoon74-cyber?tab=repositories"><img src="https://img.shields.io/badge/%E2%96%B6%20EXPLORE%20ALL%20PROJECTS-OPEN%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=6d28d9" alt="Explore all repositories"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:22d3ee,50:8b5cf6,100:fb7185" width="92%" alt="Neon project divider"/>
 
 </div>
 
