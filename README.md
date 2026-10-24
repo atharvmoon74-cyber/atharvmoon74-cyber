@@ -47,23 +47,15 @@
 
 </div>
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=17&duration=1900&pause=550&color=67E8F9&center=true&vCenter=true&width=700&height=38&lines=%24+IDENTITY.load%28%29...;ATHARV+MOON+%7C+BUILDER+MINDSET;CIVIL+ENGINEERING+%C3%97+CREATIVE+TECH;IDEA+DETECTED.+BUILD+SEQUENCE+INITIATED.;STATUS%3A+CURIOUS.+CREATING.+ITERATING." alt="Animated identity sequence"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=1900&pause=550&color=67E8F9&center=true&vCenter=true&width=650&height=38&lines=%24+IDENTITY.load%28%29...;ATHARV+MOON+%7C+BUILDER+MINDSET;CIVIL+ENGINEERING+%C3%97+CREATIVE+TECH;IDEA+DETECTED.+BUILD+SEQUENCE+INITIATED.;STATUS%3A+CURIOUS.+CREATING.+ITERATING." alt="Animated identity sequence"/>
 
 <img src="https://img.shields.io/badge/01-ENGINEER%20IN%20TRAINING-0b1020?style=for-the-badge&labelColor=312e81" alt="Engineer in training"/>
 <img src="https://img.shields.io/badge/02-CREATIVE%20TECH-0b1020?style=for-the-badge&labelColor=0e7490" alt="Creative technology"/>
 <img src="https://img.shields.io/badge/03-ALWAYS%20ITERATING-0b1020?style=for-the-badge&labelColor=9d174d" alt="Always iterating"/>
 
 </div>
-
-<table>
-<tr>
-<td width="58%" valign="top">
 
 ## ⟡ THE PERSON BEHIND THE BUILDS
 
@@ -82,15 +74,14 @@ I enjoy taking ideas from **“what if?” to “it works.”** I prototype, con
 
 > *Think boldly. Build patiently. Make it memorable.*
 
-<div align="left">
+<div align="center">
 
 <img src="https://img.shields.io/badge/MINDSET-IDEAS%20INTO%20REALITY-111827?style=flat-square&labelColor=6d28d9" alt="Ideas into reality"/>
 <img src="https://img.shields.io/badge/ENERGY-CURIOUS%20BY%20DEFAULT-111827?style=flat-square&labelColor=0e7490" alt="Curious by default"/>
 
 </div>
 
-</td>
-<td width="42%" align="center" valign="middle">
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=atharvmoon74-cyber&show_icons=true&hide_border=true&rank_icon=github&bg_color=070b18&title_color=c4b5fd&icon_color=67e8f9&text_color=e2e8f0&ring_color=8b5cf6&include_all_commits=true" width="100%" alt="GitHub statistics"/>
 
@@ -98,77 +89,7 @@ I enjoy taking ideas from **“what if?” to “it works.”** I prototype, con
 
 <img src="https://img.shields.io/badge/PROFILE%20SIGNAL-ONLINE-0b1020?style=for-the-badge&logo=github&logoColor=67e8f9&labelColor=312e81" alt="Profile online"/>
 
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img width="88%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22d3ee,35:6366f1,70:a78bfa,100:fb7185&section=header" alt="Neon gradient divider"/>
-
 </div>
-
-## ⟡ SKILL CONSTELLATION
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1700&pause=500&color=A78BFA&center=true&vCenter=true&width=650&height=35&lines=INITIALIZING+SKILL+ORBIT...;SCANNING+FRONTEND+SYSTEMS...;SYNCING+AI+%26+AUTOMATION...;MOBILE+MODULES+ONLINE...;TOOLKIT+READY+FOR+DEPLOYMENT" alt="Animated skill scan"/>
-
-<img src="https://img.shields.io/badge/CORE%20SYSTEM-ONLINE-07111f?style=for-the-badge&logo=probot&logoColor=67e8f9&labelColor=312e81" alt="Core system online"/>
-<img src="https://img.shields.io/badge/BUILD%20MODE-ACTIVE-07111f?style=for-the-badge&logo=rocket&logoColor=67e8f9&labelColor=0e7490" alt="Build mode active"/>
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="50%" valign="top">
-
-### ◉ ORBIT 01 · FRONTEND
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&perline=4" alt="Frontend technologies"/>
-
-<img src="https://img.shields.io/badge/STATUS-INTERFACE%20ENGINE-111827?style=flat-square&labelColor=6d28d9" alt="Interface engine"/>
-
-<sub>Web interfaces · Responsive layouts · Motion-led UI</sub>
-
-</td>
-<td align="center" width="50%" valign="top">
-
-### ◉ ORBIT 02 · AI LAB
-
-<img src="https://skillicons.dev/icons?i=python,nodejs&perline=4" alt="AI and automation technologies"/>
-
-<img src="https://img.shields.io/badge/STATUS-EXPERIMENTING-111827?style=flat-square&labelColor=0e7490" alt="Experimenting"/>
-
-<sub>AI workflows · Automation · Rapid prototypes</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top">
-
-### ◉ ORBIT 03 · MOBILE
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase&perline=4" alt="Mobile and backend technologies"/>
-
-<img src="https://img.shields.io/badge/STATUS-APP%20BUILDER-111827?style=flat-square&labelColor=0891b2" alt="App builder"/>
-
-<sub>Cross-platform apps · Backend integrations</sub>
-
-</td>
-<td align="center" width="50%" valign="top">
-
-### ◉ ORBIT 04 · TOOLKIT
-
-<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,figma&perline=4" alt="Engineering toolkit"/>
-
-<img src="https://img.shields.io/badge/STATUS-ALWAYS%20UPGRADING-111827?style=flat-square&labelColor=be185d" alt="Always upgrading"/>
-
-<sub>Problem solving · Version control · Design</sub>
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
