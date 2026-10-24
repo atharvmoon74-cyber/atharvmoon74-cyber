@@ -6,7 +6,7 @@
 
 <!-- PARTICLE GIF: upload the animation to assets/particle-face-reveal.gif on the main branch -->
 <div align="center">
-  <img src="./assets/particle-face-reveal.gif" width="72%" alt="Atharv particle-face reveal animation"/>
+  <a href="https://github.com/atharvmoon74-cyber/atharvmoon74-cyber/blob/main/assets/particle-face-reveal.gif"><img src="https://raw.githubusercontent.com/atharvmoon74-cyber/atharvmoon74-cyber/main/assets/particle-face-reveal.gif" width="72%" alt="Atharv particle-face reveal animation"/></a>
   <br/>
   <sub>✦ PARTICLE REVEAL · BUILT DIFFERENT · ✦</sub>
 </div>
