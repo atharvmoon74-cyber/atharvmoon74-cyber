@@ -4,6 +4,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2200&pause=600&color=67E8F9&center=true&vCenter=true&width=820&height=48&lines=DEVELOPER+%2F+CREATOR+%2F+BUILDER;CIVIL+ENGINEERING+STUDENT+%40+IIT+TIRUPATI;WEB+%E2%80%A2+AI+TOOLS+%E2%80%A2+AUTOMATION+%E2%80%A2+APPS;DREAM.+DESIGN.+BUILD.+REFINE.+SHIP." alt="Animated role introduction"/>
 
+<!-- PARTICLE GIF: upload the animation to assets/particle-face-reveal.gif on the main branch -->
+<div align="center">
+  <img src="./assets/particle-face-reveal.gif" width="72%" alt="Atharv particle-face reveal animation"/>
+  <br/>
+  <sub>✦ PARTICLE REVEAL · BUILT DIFFERENT · ✦</sub>
+</div>
+
 <br/>
 
 <a href="https://github.com/atharvmoon74-cyber"><img src="https://komarev.com/ghpvc/?username=atharvmoon74-cyber&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/></a>
