@@ -273,21 +273,25 @@ A dedicated space for presenting projects and shaping a distinctive developer id
 
 </div>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=1600&pause=400&color=67E8F9&center=true&vCenter=true&width=700&height=35&lines=%3E+BUILD+PIPELINE+INITIALIZED;%3E+PHASE+01%3A+IMAGINE;%3E+PHASE+02%3A+DESIGN;%3E+PHASE+03%3A+ENGINEER;%3E+PHASE+04%3A+ITERATE;%3E+PHASE+05%3A+RELEASE;%3E+PIPELINE+READY+FOR+NEXT+IDEA" alt="Animated build pipeline"/>
+
+</div>
+
 ## ⟡ MY BUILD LOOP
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-IMAGINE-111827?style=for-the-badge&labelColor=312e81" alt="Imagine"/>
-<img src="https://img.shields.io/badge/02-DESIGN-111827?style=for-the-badge&labelColor=4338ca" alt="Design"/>
-<img src="https://img.shields.io/badge/03-ENGINEER-111827?style=for-the-badge&labelColor=6d28d9" alt="Engineer"/>
-<img src="https://img.shields.io/badge/04-ITERATE-111827?style=for-the-badge&labelColor=0e7490" alt="Iterate"/>
-<img src="https://img.shields.io/badge/05-RELEASE-111827?style=for-the-badge&labelColor=0891b2" alt="Release"/>
+<img src="https://img.shields.io/badge/◈%2001-IMAGINE-070b18?style=for-the-badge&labelColor=312e81" alt="Step one imagine"/>
+<img src="https://img.shields.io/badge/✦%2002-DESIGN-070b18?style=for-the-badge&labelColor=4338ca" alt="Step two design"/>
+<img src="https://img.shields.io/badge/⚙%2003-ENGINEER-070b18?style=for-the-badge&labelColor=6d28d9" alt="Step three engineer"/>
+<img src="https://img.shields.io/badge/↻%2004-ITERATE-070b18?style=for-the-badge&labelColor=0e7490" alt="Step four iterate"/>
+<img src="https://img.shields.io/badge/▲%2005-RELEASE-070b18?style=for-the-badge&labelColor=0891b2" alt="Step five release"/>
 
-</div>
+<img width="92%" src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:22d3ee,25:6366f1,60:a78bfa,100:fb7185" alt="Neon build-loop divider"/>
 
-<div align="center">
-
-<img width="88%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22d3ee,35:6366f1,70:a78bfa,100:fb7185&section=header" alt="Neon gradient divider"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1900&pause=500&color=C4B5FD&center=true&vCenter=true&width=650&height=30&lines=IMAGINE+IT.+DESIGN+IT.;ENGINEER+IT.+TEST+IT.;ITERATE+UNTIL+IT+FEELS+RIGHT.;SHIP+IT.+LEARN.+REPEAT." alt="Build loop motto"/>
 
 </div>
 
@@ -295,13 +299,17 @@ A dedicated space for presenting projects and shaping a distinctive developer id
 
 ## ⟡ LET'S CONNECT
 
-<a href="https://github.com/atharvmoon74-cyber"><img src="https://img.shields.io/badge/GITHUB-FOLLOW%20THE%20JOURNEY-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=312e81" alt="GitHub"/></a>
-<a href="mailto:atharvmoon74@gmail.com"><img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-111827?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0e7490" alt="Email"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=2000&pause=600&color=67E8F9&center=true&vCenter=true&width=600&height=30&lines=HAVE+A+COOL+IDEA%3F;LET'S+BUILD+SOMETHING+USEFUL.;OPEN+TO+GOOD+CONVERSATIONS." alt="Animated connect invitation"/>
 
-<br/><br/>
+<a href="https://github.com/atharvmoon74-cyber"><img src="https://img.shields.io/badge/◉%20GITHUB-FOLLOW%20THE%20JOURNEY-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=312e81" alt="GitHub"/></a>
+<a href="mailto:atharvmoon74@gmail.com"><img src="https://img.shields.io/badge/✉%20EMAIL-LET'S%20TALK-111827?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0e7490" alt="Email"/></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=145&section=footer&text=THE%20NEXT%20BUILD%20STARTS%20HERE&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=twinkling&color=0:030712,30:312e81,65:6d28d9,100:0891b2" alt="Animated footer"/>
+<img width="92%" src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:22d3ee,50:8b5cf6,100:fb7185" alt="Contact divider"/>
 
-<sub>◈ CURIOSITY IN MOTION · PROGRESS IN PUBLIC · ALWAYS BUILDING ◈</sub>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=165&section=footer&text=THE%20NEXT%20BUILD%20STARTS%20HERE&fontSize=20&fontColor=ffffff&fontAlignY=62&animation=twinkling&color=0:030712,30:312e81,65:6d28d9,100:0891b2" alt="Animated footer"/>
+
+<sub>✦ CURIOSITY IN MOTION · PROGRESS IN PUBLIC · ALWAYS BUILDING ✦</sub>
 
 </div>
