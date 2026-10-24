@@ -7,6 +7,14 @@
 <!-- PARTICLE GIF: upload the animation to assets/particle-face-reveal.gif on the main branch -->
 <div align="center">
   <a href="https://github.com/atharvmoon74-cyber/atharvmoon74-cyber/blob/main/assets/particle-face-reveal.gif"><img src="https://raw.githubusercontent.com/atharvmoon74-cyber/atharvmoon74-cyber/main/assets/particle-face-reveal.gif" width="72%" alt="Atharv particle-face reveal animation"/></a>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=1800&pause=500&color=67E8F9&center=true&vCenter=true&width=760&height=35&lines=%24+whoami+%E2%86%92+Atharv+Moon;%24+projects+%E2%86%92+Apps%2C+AI%2C+Games%2C+Creative+Tools;%24+skills+%E2%86%92+Web+%7C+Flutter+%7C+Python+%7C+AI;%24+current-mission+%E2%86%92+Build+something+memorable;%24+status+%E2%86%92+ONLINE+%E2%80%A2+ALWAYS+ITERATING" alt="Animated developer terminal"/>
+
+</div>
   <br/>
   <sub>✦ PARTICLE REVEAL · BUILT DIFFERENT · ✦</sub>
 </div>
@@ -73,56 +81,133 @@ I like taking ideas from **“what if?” to “it works.”** I experiment with
 
 </div>
 
-## ⟡ TECH ARSENAL
+## ⟡ SKILL CONSTELLATION
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,react,vite,tailwind,flutter,nodejs,supabase,firebase,git,github,vscode,figma&perline=9" alt="Technology stack"/>
+<sub>FOUR ORBITS · ONE BUILDER · CONSTANTLY EXPANDING</sub>
 
-<br/><br/>
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/FRONTEND-Interfaces%20%26%20Motion-111827?style=for-the-badge&labelColor=312e81" alt="Frontend"/>
-<img src="https://img.shields.io/badge/AI-Tools%20%26%20Experiments-111827?style=for-the-badge&labelColor=6d28d9" alt="AI"/>
-<img src="https://img.shields.io/badge/BUILD-Apps%20%26%20Automation-111827?style=for-the-badge&labelColor=0e7490" alt="Apps"/>
+### ✦ FRONTEND & WEB
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind&perline=4" alt="Frontend and web skills"/>
+
+<sub>Interfaces · Responsive UI · Motion</sub>
+
+</td>
+<td align="center" width="50%" valign="top">
+
+### ✦ AI & AUTOMATION
+
+<img src="https://skillicons.dev/icons?i=python,nodejs&perline=4" alt="AI and automation tools"/>
+
+<sub>AI workflows · Prototypes · Automation</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+### ✦ MOBILE & APPS
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase&perline=4" alt="Mobile development and backend tools"/>
+
+<sub>Cross-platform apps · Backend integrations</sub>
+
+</td>
+<td align="center" width="50%" valign="top">
+
+### ✦ ENGINEERING TOOLKIT
+
+<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,figma&perline=4" alt="Engineering and development tools"/>
+
+<sub>Problem solving · Version control · Design</sub>
+
+</td>
+</tr>
+</table>
+
+<img src="https://img.shields.io/badge/ORBIT-LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20REFINE-111827?style=for-the-badge&labelColor=312e81" alt="Learn build refine"/>
 
 </div>
 
 ## ⟡ SELECTED UNIVERSE
 
+<div align="center">
+
+<sub>PROJECTS, EXPERIMENTS & WORLDS IN PROGRESS</sub>
+
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◉ ATHARVVERSE
-**Interactive experiences · Games · Web**
+### ◉ [ATHARVVERSE · GAME LAB](https://github.com/atharvmoon74-cyber/shadow-strike-arena)
 
-A playground for experiments in game concepts, polished UI, animations, and interactive experiences.
+**Games · Interactive web · Motion**
+
+A playground for interactive game experiences, neon interfaces, and browser-based fun.
+
+<img src="https://img.shields.io/badge/FOCUS-GAME%20EXPERIENCES-111827?style=flat-square&labelColor=6d28d9" alt="Game experiences"/>
 
 </td>
 <td width="50%" valign="top">
 
 ### ◉ SHAMPY
-**Personal AI assistant · Desktop workflows**
 
-An ambitious assistant concept focused on voice interaction, useful memory, automation, and a cinematic interface.
+**Personal AI · Voice · Automation**
+
+A personal-assistant concept exploring voice-first interaction, useful memory, desktop workflows, and a cinematic interface.
+
+<img src="https://img.shields.io/badge/FOCUS-PERSONAL%20AI-111827?style=flat-square&labelColor=0e7490" alt="Personal AI"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ◉ DESTINY PLANNER
-**Travel · Flutter · Product design**
+### ◉ [DESTINY PLANNER](https://github.com/atharvmoon74-cyber/Destiny_Planners)
 
-A travel-planning app concept bringing destinations, trip planning, and an AI-assisted experience together.
+**Travel · Planning · Mobile**
+
+A travel-planning concept built around destinations, trip organization, and a polished mobile-first experience.
+
+<img src="https://img.shields.io/badge/FOCUS-TRAVEL%20TECH-111827?style=flat-square&labelColor=312e81" alt="Travel technology"/>
 
 </td>
 <td width="50%" valign="top">
 
-### ◉ CREATIVE LAB
-**Web · AI workflows · Visual storytelling**
+### ◉ [PARTICLE GALAXY](https://github.com/atharvmoon74-cyber/ParticleGalaxy)
 
-A collection of experiments in creative tools, animated interfaces, and turning ambitious concepts into working prototypes.
+**Visual experiments · Creative coding**
+
+Exploring particle-driven visuals and atmospheric digital experiences inspired by space, motion, and light.
+
+<img src="https://img.shields.io/badge/FOCUS-CREATIVE%20TECH-111827?style=flat-square&labelColor=0891b2" alt="Creative technology"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◉ [RESUME CHECKER](https://github.com/atharvmoon74-cyber/ResumeChecker)
+
+**Career tools · Web app**
+
+A practical project focused on making resume review more useful and accessible.
+
+</td>
+<td width="50%" valign="top">
+
+### ◉ [ATHARV PORTFOLIO](https://github.com/atharvmoon74-cyber/atharv-moon-godlevel-portfolio)
+
+**Portfolio · UI · Personal brand**
+
+A dedicated space for presenting projects and shaping a distinctive developer identity.
 
 </td>
 </tr>
@@ -133,14 +218,6 @@ A collection of experiments in creative tools, animated interfaces, and turning 
 <a href="https://github.com/atharvmoon74-cyber?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-OPEN%20REPOSITORIES-111827?style=for-the-badge&logo=github&labelColor=6d28d9" alt="Explore projects"/></a>
 
 </div>
-
-<div align="center">
-
-<img width="88%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22d3ee,35:6366f1,70:a78bfa,100:fb7185&section=header" alt="Neon gradient divider"/>
-
-</div>
-
-<div align="center">
 
 ## ⟡ THE CONTRIBUTION CONSTELLATION
 
