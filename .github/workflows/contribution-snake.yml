@@ -1,4 +1,4 @@
-name: Generate contribution animation
+name: Generate cinematic contribution animations
 
 on:
   schedule:
@@ -16,14 +16,17 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate contribution snake
+      - name: Render custom-color contribution animations
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Publish animation
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23a78bfa
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2367e8f9
+            dist/github-contribution-grid-snake-violet-cyan.svg?palette=github-dark&color_snake=%23c4b5fd
+            dist/github-contribution-grid-snake-rose.svg?palette=github-dark&color_snake=%23fb7185
+            dist/github-contribution-grid-snake-ocean.svg?palette=github-dark&color_snake=%2306b6d4
+      - name: Publish animations to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
